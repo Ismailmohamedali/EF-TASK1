@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\models\\sale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\migrations\\20240914195616_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\migrations\\20240914195616_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\models\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\salesdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\salesdatabase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\migrations\\20240914200755_salesadddatedefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\migrations\\20240914200755_salesadddatedefault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\migrations\\20240914200643_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\migrations\\20240914200643_productsaddcolumndescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|c:\\users\\dell\\source\\repos\\salesdatabase\\salesdatabase\\migrations\\20240914200553_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A200CA16-1040-4852-A801-1FBF651210C3}|SalesDatabase\\SalesDatabase.csproj|solutionrelative:salesdatabase\\migrations\\20240914200553_edit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20240914200755_SalesAddDateDefault.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914200755_SalesAddDateDefault.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Migrations\\20240914200755_SalesAddDateDefault.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914200755_SalesAddDateDefault.cs",
+              "RelativeToolTip": "SalesDatabase\\Migrations\\20240914200755_SalesAddDateDefault.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:07:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240914200643_ProductsAddColumnDescription.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914200643_ProductsAddColumnDescription.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Migrations\\20240914200643_ProductsAddColumnDescription.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914200643_ProductsAddColumnDescription.cs",
+              "RelativeToolTip": "SalesDatabase\\Migrations\\20240914200643_ProductsAddColumnDescription.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:06:43.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240914200553_Edit.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914200553_Edit.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Migrations\\20240914200553_Edit.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914200553_Edit.cs",
+              "RelativeToolTip": "SalesDatabase\\Migrations\\20240914200553_Edit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:05:54.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240914195616_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914195616_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Migrations\\20240914195616_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Migrations\\20240914195616_InitialCreate.cs",
+              "RelativeToolTip": "SalesDatabase\\Migrations\\20240914195616_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:56:17.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sale.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Sale.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Models\\Sale.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Sale.cs",
+              "RelativeToolTip": "SalesDatabase\\Models\\Sale.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:40:16.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Store.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Models\\Store.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Store.cs",
+              "RelativeToolTip": "SalesDatabase\\Models\\Store.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:39:18.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Customer.cs",
+              "RelativeToolTip": "SalesDatabase\\Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T19:36:53.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Models\\Product.cs",
+              "RelativeToolTip": "SalesDatabase\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAgwA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:56:35.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalesDatabase.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\SalesDatabase.csproj",
+              "RelativeDocumentMoniker": "SalesDatabase\\SalesDatabase.csproj",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\SalesDatabase.csproj",
+              "RelativeToolTip": "SalesDatabase\\SalesDatabase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-14T18:55:56.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SalesDatabase\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:51:22.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Program.cs",
+              "RelativeDocumentMoniker": "SalesDatabase\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\SalesDatabase\\SalesDatabase\\Program.cs",
+              "RelativeToolTip": "SalesDatabase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T18:46:08.54Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
